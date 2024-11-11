@@ -16,5 +16,5 @@ flag{5n00ping_4r0und}
 flag{n0wh3r3_i5_54f3}
 flag{1s_ths_h0w_l0g1ns_w0rk}
 flag{Uni0ns_4re_so_tr1vi4l}
-mancante
+flag{A_bl1ndy_fl4g}
 mancante
